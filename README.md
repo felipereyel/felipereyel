@@ -1,21 +1,33 @@
-### Hi there 👋
+### Hi there 👋, here is the index of my projects.
 
-<!--
-**felipereyel/felipereyel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Templates
+Collection of Templates I frequently use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Express
+- microservice: https://github.com/felipereyel/express-template
+- mem-crud: https://github.com/felipereyel/mem-crud
 
-Index:
+## Vue
+- Vue3 / router / TS / Classes: https://github.com/felipereyel/vue-3-template
+
+
+# Streaming Services struggle
+Some projects to deal with rise of many streaming services
+
+## My List Scrapper
+- scrapper: https://github.com/felipereyel/streaming-services-my-list-scrapper
+
+
+# Chatbots
+some projects to interact with users in popular chat applications with BOTs
+
+## Discord
+- rh-bot: https://github.com/felipereyel/RH-Bot
+
+## Rocketchat
+- pinkbit: https://github.com/felipereyel/heypink-bot-test
+
 
 # IME Projects
 Collection of Repos for my graduation in IME
@@ -68,32 +80,3 @@ Caesar and Huffman encoding. For Programming Lab II Course
 
 ## AI
 - analysis: https://github.com/felipereyel/bank-analysis
-
-
-# Templates
-Collection of Templates I frequently use
-
-## Express
-- microservice: https://github.com/felipereyel/express-template
-- mem-crud: https://github.com/felipereyel/mem-crud
-
-## Vue
-- Vue3 / router / TS / Classes: https://github.com/felipereyel/vue-3-template
-
-
-# Streaming Services struggle
-Some projects to deal with rise of many streaming services
-
-## My List Scrapper
-- scrapper: https://github.com/felipereyel/streaming-services-my-list-scrapper
-
-
-# Chatbots
-some projects to interact with users in popular chat applications with BOTs
-
-## Discord
-- rh-bot: https://github.com/felipereyel/RH-Bot
-
-## Rocketchat
-- pinkbit: https://github.com/felipereyel/heypink-bot-test
-
