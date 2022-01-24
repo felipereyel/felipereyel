@@ -27,9 +27,6 @@ My Graduation's Final Project
 - frontend: https://github.com/felipereyel/vueeke
 - PoCs: https://github.com/felipereyel/EKE-PoC
 
-## AI
-- analysis: https://github.com/felipereyel/bank-analysis
-
 ## Compilers
 Collection of repos of Compilers Course
 - frontend: https://github.com/felipereyel/compilime
@@ -50,6 +47,10 @@ Controlling a Tello Drone with a M5StickC running Arduino Code. For Embedded Sys
 ## Networks
 - nim_ws: https://github.com/felipereyel/nim
 
+## Programming Lab 3 / Xabituka 2.0
+Messaging app implemented with web app and android app. For Programming Lab III Course
+- server, android and react: https://github.com/felipereyel/xabituka-2.0
+
 ## APSII
 Analysis and Design of Systems II
 - public-data-analysis: https://github.com/felipereyel/public-data-analysis
@@ -60,10 +61,39 @@ Java project of our version of Kahoot. For Programming Lab II Course
 - frontend: https://github.com/felipereyel/xabituka-front
 - server: https://github.com/felipereyel/xabituka-server
 
-## Programming Lab 3 / Xabituka 2.0
-Messaging app implemented with web app and android app. For Programming Lab III Course
-- server, android and react: https://github.com/felipereyel/xabituka-2.0
 
 ## Programming Lab 2 / Zipime
 Caesar and Huffman encoding. For Programming Lab II Course
 - zipime: https://github.com/felipereyel/ZipIME
+
+## AI
+- analysis: https://github.com/felipereyel/bank-analysis
+
+
+# Templates
+Collection of Templates I frequently use
+
+## Express
+- microservice: https://github.com/felipereyel/express-template
+- mem-crud: https://github.com/felipereyel/mem-crud
+
+## Vue
+- Vue3 / router / TS / Classes: https://github.com/felipereyel/vue-3-template
+
+
+# Streaming Services struggle
+Some projects to deal with rise of many streaming services
+
+## My List Scrapper
+- scrapper: https://github.com/felipereyel/streaming-services-my-list-scrapper
+
+
+# Chatbots
+some projects to interact with users in popular chat applications with BOTs
+
+## Discord
+- rh-bot: https://github.com/felipereyel/RH-Bot
+
+## Rocketchat
+- pinkbit: https://github.com/felipereyel/heypink-bot-test
+
