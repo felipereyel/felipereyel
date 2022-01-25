@@ -28,6 +28,12 @@ some projects to interact with users in popular chat applications with BOTs
 ## Rocketchat
 - pinkbit: https://github.com/felipereyel/heypink-bot-test
 
+# Scripts
+Some usefull scripts I often use
+
+## Bash
+- auto-locker: https://github.com/felipereyel/auto-locker
+
 
 # IME Projects
 Collection of Repos for my graduation in IME
