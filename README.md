@@ -88,6 +88,16 @@ Caesar and Huffman encoding. For Programming Lab II Course
 - analysis: https://github.com/felipereyel/bank-analysis
 
 
+# Real A.L.F.R.E.D.
+A.L.F.R.E.D. was a project I created to keep track of my weekly tv shows and were to watch them.  
+It has provider scrapping for the content in cloud functions on-demand.  
+At some point it had cronjobs to scrape the provider, a server-side rendered frontend platform hosted on heroku, noSQL database and integration with google assitant for new episodes prompting.
+
+## alfred-assitant
+Integration with Google Assistant
+- alfred-assistant: https://github.com/felipereyel/real-alfred-assistant
+
+
 # Learning
 Some projects where i was/am learning something
 
