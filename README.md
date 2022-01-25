@@ -97,6 +97,10 @@ At some point it had cronjobs to scrape the provider, a server-side rendered fro
 Integration with Google Assistant
 - alfred-assistant: https://github.com/felipereyel/real-alfred-assistant
 
+## alfred-platform
+Currently just cloudfunction that scrape the provider. But in the history there is a full server-side rendered platform
+- alfred-platform
+
 
 # Learning
 Some projects where i was/am learning something
