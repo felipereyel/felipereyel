@@ -98,8 +98,8 @@ Integration with Google Assistant
 - alfred-assistant: https://github.com/felipereyel/real-alfred-assistant
 
 ## alfred-platform
-Currently just cloudfunction that scrape the provider. But in the history there is a full server-side rendered platform
-- alfred-platform
+Currently just cloud functions that scrape the provider. But in the history there is a full server-side rendered platform
+- alfred-platform: https://github.com/felipereyel/real-alfred-platform
 
 
 # Learning
