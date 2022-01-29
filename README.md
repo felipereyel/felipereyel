@@ -1,14 +1,20 @@
 ### Hi there 👋, here is the index of my projects.
 
 
-# Templates
-Collection of Templates I frequently use
+# Templates / Plugins / Presets
+Collection of code I frequently use
 
 ## Express
 - microservice: https://github.com/felipereyel/express-template
 - mem-crud: https://github.com/felipereyel/mem-crud
 
-## Vue
+## Vue 3 Preset
+- preset: https://github.com/felipereyel/vue3-preset
+
+## Vue CLI Plugin Add static.json for static Heroku deploy, published on npm
+- plugin: https://github.com/felipereyel/vue-cli-plugin-static-heroku
+
+## Vue [Deprecated]
 - Vue3 / router / TS / Classes: https://github.com/felipereyel/vue-3-template
 
 
