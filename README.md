@@ -9,7 +9,7 @@ Collection of code I frequently use
 - mem-crud: https://github.com/felipereyel/mem-crud
 
 ## Vue 3 Preset
-- preset: https://github.com/felipereyel/vue3-preset
+- preset: https://github.com/felipereyel/vue-3-preset
 
 ## Vue CLI Plugin Add static.json for static Heroku deploy, published on npm
 - plugin: https://github.com/felipereyel/vue-cli-plugin-static-heroku
