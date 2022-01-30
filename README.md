@@ -8,7 +8,7 @@ Collection of code I frequently use
 - microservice: https://github.com/felipereyel/express-template
 - mem-crud: https://github.com/felipereyel/mem-crud
 
-## Vue [Deprecated]
+## Vue
 - vue-cli / Vue3 / router / TS / Classes: https://github.com/felipereyel/vue-3-template
 
 
