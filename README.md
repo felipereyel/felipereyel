@@ -11,7 +11,7 @@
 
 ## [Chatbots](chatbots.md)
 
-## [Scripts](stripts.md)
+## [Scripts](scripts.md)
 
 ## [IME](ime.md)
 
