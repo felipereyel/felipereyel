@@ -10,3 +10,11 @@ Integration with Google Assistant
 ## alfred-platform
 Currently just cloud functions that scrape the provider. But in the history there is a full server-side rendered platform
 - alfred-platform: https://github.com/felipereyel/real-alfred-platform
+
+## torrent-query
+Backend engine for searching in torrent indexers returning the first result
+- torrent-query: https://github.com/felipereyel/torrent-search
+
+## chromium-alfred
+An implementation of alfred for as an extension, editing the source page to add download links
+- chromium-alfred: https://github.com/felipereyel/chromium-alfred
