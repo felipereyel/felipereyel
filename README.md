@@ -1,15 +1,17 @@
 ### Hi there 👋, here is the index of my projects.
 
 
-## [Github Actions](github-actions.md)
+## [CLIs](clis.md)
 
-## [Forks](forks.md)
+## [Github Actions](github-actions.md)
 
 ## [Templates / Plugins / Presets](templates-plugins-presets.md)
 
 ## [Streaming Services struggle](streaming-services-struggle.md)
 
 ## [Chatbots](chatbots.md)
+
+## [Forks](forks.md)
 
 ## [Scripts](scripts.md)
 
