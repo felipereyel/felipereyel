@@ -49,3 +49,7 @@ Caesar and Huffman encoding. For Programming Lab II Course
 
 ## AI
 - analysis: https://github.com/felipereyel/bank-analysis
+
+
+## Numerical Methods
+- newton's method: https://gist.github.com/felipereyel/d37dc92135ac6050f7e9a4b63851c750
