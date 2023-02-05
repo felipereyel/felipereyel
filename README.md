@@ -5,6 +5,8 @@
 
 ## [Github Actions](github-actions.md)
 
+## [OpenID Connect Stuff](openid.md)
+
 ## [Templates / Plugins / Presets](templates-plugins-presets.md)
 
 ## [Streaming Services struggle](streaming-services-struggle.md)
