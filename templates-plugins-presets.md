@@ -11,4 +11,5 @@ Collection of code I frequently use
 - OLD microservice: https://github.com/felipereyel/express-template
 
 ## Vue
+- Vite / Vue3 / router / TS / setup: https://github.com/felipereyel/vue-template
 - vue-cli / Vue3 / router / TS / Classes: https://github.com/felipereyel/old-vue-3-template
