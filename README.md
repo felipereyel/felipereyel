@@ -3,6 +3,8 @@
 
 ## [CLIs](clis.md)
 
+## [Finance](https://github.com/felipereyel/finance-tracker)
+
 ## [Github Actions](github-actions.md)
 
 ## [OpenID Connect Stuff](openid.md)
