@@ -7,6 +7,8 @@
 
 ## [Github Actions](github-actions.md)
 
+## [OpenAI / ML Stuff](ai.md)
+
 ## [OpenID Connect Stuff](openid.md)
 
 ## [Templates / Plugins / Presets](templates-plugins-presets.md)
