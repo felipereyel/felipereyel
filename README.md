@@ -1,9 +1,9 @@
 # Hi there 👋
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipereyel/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipereyel)
 
-I'm Felipe Reyel, a passionate software developer and tech enthusiast with 6 years of professional experience. I currently work as a Lead Software Engineer at Abstra.
+I'm Felipe Reyel, a passionate software developer and tech enthusiast with 5 years of professional experience building systems from scratch and leading small teams of developers. I currently work as a Lead Software Engineer at Abstra.
 
-My passion right now is systems architecture and infrastructure with focus on backend development and devops. <!-- I have extensive hands on experience with tools/systems like Kubernetes, Docker, AWS and Terraform -->
+My passion right now is systems architecture and infrastructure with a focus on backend development and DevOps. <!-- I have extensive hands on experience with tools/systems like Kubernetes, Docker, AWS and Terraform -->
 
 # Tech Stack 💻
 
