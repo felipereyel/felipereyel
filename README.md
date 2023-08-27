@@ -3,7 +3,7 @@
 
 I'm Felipe Reyel, a passionate software developer and tech enthusiast with 6 years of professional experience. I currently work as a Lead Software Engineer at Abstra.
 
-My passion right now is systems architeture and infrastucture with focus on backend development and devops. <!-- I have extensive hands on experience with tools/systems like Kubernetes, Docker, AWS and Terraform -->
+My passion right now is systems architecture and infrastructure with focus on backend development and devops. <!-- I have extensive hands on experience with tools/systems like Kubernetes, Docker, AWS and Terraform -->
 
 # Tech Stack 💻
 
