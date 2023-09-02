@@ -3,6 +3,7 @@ Collection of code I frequently use
 
 ## Go Fiber
 - go ms: https://github.com/felipereyel/go-ms-template
+- go ssr: https://github.com/felipereyel/go-ssr
 
 ## Express
 - node ms: https://github.com/felipereyel/node-ms-template
