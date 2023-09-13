@@ -2,16 +2,22 @@
 Collection of code I frequently use
 
 ## Go Fiber
-- go ms: https://github.com/felipereyel/go-ms-template
-- go ssr: https://github.com/felipereyel/go-ssr
+- GOTH stack (Go + Turso + Htmx): https://github.com/felipereyel/gotth-stack
+- go fiber: https://github.com/felipereyel/go-fiber-stack
 
-## Express
-- node ms: https://github.com/felipereyel/node-ms-template
-- node ms with database: https://github.com/felipereyel/node-ms-template-complete
-- mem-crud: https://github.com/felipereyel/mem-crud
-- OLD microservice: https://github.com/felipereyel/express-template
+## Bun
+- BETH stack (Bun + ElysiaJS + Turso + HTMX): https://github.com/felipereyel/beth-stack
+
+## Node
+- PEN stack (postgres + express + node): https://github.com/felipereyel/pen-stack
 
 ## Vue
-- Vite / Vue3 / router / TS / setup: https://github.com/felipereyel/vue-template
 - Vue + Pocketbase: https://github.com/felipereyel/vue-pocketbase
+- Vite / Vue3 / router / TS / setup: https://github.com/felipereyel/vue-template
+
+
+## Old / Deprecated
 - vue-cli / Vue3 / router / TS / Classes: https://github.com/felipereyel/old-vue-3-template
+- node ms: https://github.com/felipereyel/node-ms-template
+- mem-crud: https://github.com/felipereyel/mem-crud
+- microservice: https://github.com/felipereyel/express-template
