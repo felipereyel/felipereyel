@@ -5,6 +5,10 @@
 
 ## [Finance](https://github.com/felipereyel/finance-tracker)
 
+## [Messenger](https://github.com/felipereyel/chatrooms)
+
+## [Games](games.md)
+
 ## [Github Actions](github-actions.md)
 
 ## [OpenAI / ML Stuff](ai.md)
