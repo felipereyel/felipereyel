@@ -11,3 +11,7 @@ Some CLIs iI fiddled around with
 
 ## Generate strong passwords
 - new_pass: https://gist.github.com/felipereyel/3bb126a9941b8874a19115cd38e39ebb
+
+
+## Auto Lock Computer
+- auto_lock: https://gist.github.com/felipereyel/0855d4183e1073e162480b2b23f49fc1

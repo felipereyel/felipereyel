@@ -1,5 +1,6 @@
-# Templates / Plugins / Presets
-Collection of code I frequently use
+# Toolkit
+Collection of Templates / Plugins / Presets
+
 
 ## Go Fiber
 - GOTH stack (Go + Turso + Htmx): https://github.com/felipereyel/gotth-stack

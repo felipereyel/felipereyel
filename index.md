@@ -9,26 +9,24 @@
 
 ## [Torrents](torrents.md)
 
+## [Toolkit](toolkit.md)
+
 ## [Scrappers](scrappers.md)
 
 ## [Chatbots](chatbots.md)
 
+## [CLIs](clis.md)
+
 ## [Forks](forks.md)
 
-## [CLIs](clis.md)
+## [Authn/Authz](auth.md)
 
 ## Others
 
-### [Github Actions](github-actions.md)
-
-### [OpenAI / ML Stuff](ai.md)
-
-### [OpenID Connect Stuff](openid.md)
-
-### [Templates / Plugins / Presets](templates-plugins-presets.md)
-
-### [Scripts](scripts.md)
-
 ### [IME](ime.md)
 
+### [ML Stuff](ai.md)
+
 ### [Learning](learning.md) 
+
+### [Github Actions](github-actions.md)
