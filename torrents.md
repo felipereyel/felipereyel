@@ -18,3 +18,7 @@ Backend engine for searching in torrent indexers returning the first result
 ## chromium-alfred
 An implementation of alfred for as an extension, editing the source page to add download links
 - chromium-alfred: https://github.com/felipereyel/chromium-alfred
+
+## thor
+Torrent server
+- thor: https://github.com/felipereyel/thor

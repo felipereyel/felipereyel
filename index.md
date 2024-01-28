@@ -1,32 +1,34 @@
 ### Here is the index of my projects.
 
 
-## [CLIs](clis.md)
-
-## [Finance](https://github.com/felipereyel/finance-tracker)
-
-## [Messenger](https://github.com/felipereyel/chatrooms)
+## [Reyel Cloud](reyel-cloud.md)
 
 ## [Games](games.md)
 
-## [Github Actions](github-actions.md)
+## [Challenges](challenges.md)
 
-## [OpenAI / ML Stuff](ai.md)
+## [Torrents](torrents.md)
 
-## [OpenID Connect Stuff](openid.md)
-
-## [Templates / Plugins / Presets](templates-plugins-presets.md)
-
-## [Streaming Services struggle](streaming-services-struggle.md)
+### [Scrappers](scrappers.md)
 
 ## [Chatbots](chatbots.md)
 
 ## [Forks](forks.md)
 
-## [Scripts](scripts.md)
+## [CLIs](clis.md)
 
-## [IME](ime.md)
+## Others
 
-## [Real A.L.F.R.E.D.](alfred.md)
+### [Github Actions](github-actions.md)
 
-## [Learning](learning.md) 
+### [OpenAI / ML Stuff](ai.md)
+
+### [OpenID Connect Stuff](openid.md)
+
+### [Templates / Plugins / Presets](templates-plugins-presets.md)
+
+### [Scripts](scripts.md)
+
+### [IME](ime.md)
+
+### [Learning](learning.md) 
