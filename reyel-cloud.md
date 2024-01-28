@@ -6,8 +6,8 @@ Infrastructure on Cloudflare, using terraform
 - reyel.cloud: https://github.com/felipereyel/reyel.cloud
 
 ## finance tracker
-Scrappe linkedin based on CSV
-- linkedin-scrapper: https://github.com/felipereyel/finance-tracker
+track investments
+- finance-tracker: https://github.com/felipereyel/finance-tracker
 
 
 ## thor
