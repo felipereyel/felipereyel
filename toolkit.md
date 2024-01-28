@@ -3,11 +3,8 @@ Collection of Templates / Plugins / Presets
 
 
 ## Go Fiber
-- GOTH stack (Go + Turso + Htmx): https://github.com/felipereyel/gotth-stack
+- GOTH stack (Go + Tailwind + Htmx): https://github.com/felipereyel/goth-stack
 - go fiber: https://github.com/felipereyel/go-fiber-stack
-
-## Bun
-- BETH stack (Bun + ElysiaJS + Turso + HTMX): https://github.com/felipereyel/beth-stack
 
 ## Node
 - PEN stack (postgres + express + node): https://github.com/felipereyel/pen-stack
