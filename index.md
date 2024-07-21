@@ -17,6 +17,8 @@
 
 ## [CLIs](clis.md)
 
+## [K8s](k8s.md)
+
 ## [Forks](forks.md)
 
 ## [Authn/Authz](auth.md)
