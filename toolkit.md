@@ -9,6 +9,9 @@ Collection of Templates / Plugins / Presets
 ## Node
 - PEN stack (postgres + express + node): https://github.com/felipereyel/pen-stack
 
+## Bun
+- Honotes (Bun + Hono + Htmx + Tsx): https://github.com/felipereyel/honotes
+
 ## Vue
 - Vue + Pocketbase: https://github.com/felipereyel/vue-pocketbase
 - Vite / Vue3 / router / TS / setup: https://github.com/felipereyel/vue-template
