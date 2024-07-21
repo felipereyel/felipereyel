@@ -1,6 +1,10 @@
 # CLIs
 Some CLIs I played with
 
+## CLI plot CPU and RAM usage 
+- pypsploy: https://github.com/felipereyel/pypsploy
+
+
 ## peerflix with hashinfo only
 - hashflix: https://gist.github.com/felipereyel/f56a72ee518c8445f4d9d0e42033e993
 
