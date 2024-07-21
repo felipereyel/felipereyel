@@ -19,6 +19,8 @@
 
 ## [K8s](k8s.md)
 
+## [Python](python.md)
+
 ## [Forks](forks.md)
 
 ## [Authn/Authz](auth.md)
