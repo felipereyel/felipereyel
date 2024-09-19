@@ -2,14 +2,17 @@
 My Bare metal cloud with some tools i use daily
 
 ## reyel.cloud
-Infrastructure on Cloudflare, using terraform
+Infrastructure of my cloud (terraform for Cloudflare and kubernetes for bare metal)
 - reyel.cloud: https://github.com/felipereyel/reyel.cloud
 
 ## finance tracker
 track investments
 - finance-tracker: https://github.com/felipereyel/finance-tracker
 
-
 ## thor
 Torrent server
 - thor: https://github.com/felipereyel/thor
+
+## Manual scaler
+Manually scale up and down k8s deployments with a UI
+- scaler: https://github.com/felipereyel/k8s-manual-scaler
