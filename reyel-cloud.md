@@ -3,7 +3,7 @@ My Bare metal cloud with some tools i use daily
 
 ## reyel.cloud
 Infrastructure of my cloud (terraform for Cloudflare and kubernetes for bare metal)
-- reyel.cloud: https://github.com/felipereyel/reyel.cloud
+- reyel.cloud (private): https://github.com/felipereyel/reyel.cloud
 
 ## finance tracker
 track investments
