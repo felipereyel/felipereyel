@@ -16,3 +16,7 @@ Torrent server
 ## Manual scaler
 Manually scale up and down k8s deployments with a UI
 - scaler: https://github.com/felipereyel/k8s-manual-scaler
+
+## MDNotes
+Databaseless note taking app with support for markdown and encryption
+- mdnotes: https://github.com/felipereyel/mdnotes
