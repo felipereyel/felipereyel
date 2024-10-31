@@ -6,4 +6,8 @@ Some python projects I played with
 
 
 ## Dynamic forms with flask
-- testformrunner: https://github.com/felipereyel/testformrunner
+- hmtlindo: https://github.com/felipereyel/htmlindo
+
+
+## RabbitMQ producer and consumers
+- rabbitTest: https://github.com/felipereyel/rabbitTest
