@@ -20,3 +20,7 @@ Manually scale up and down k8s deployments with a UI
 ## MDNotes
 Databaseless note taking app with support for markdown and encryption
 - mdnotes: https://github.com/felipereyel/mdnotes
+
+
+## first iteration of my local cluster with k3s
+- k3s-single-node: https://gist.github.com/felipereyel/6439828899c9ddc46862ad41de5d1a6e
