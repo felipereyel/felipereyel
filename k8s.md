@@ -16,5 +16,9 @@ Infrastructure of my cloud (terraform for Cloudflare and kubernetes for bare met
 - reyel.cloud: https://github.com/felipereyel/reyel.cloud
 
 
+## single node cluster template with k3s
+- k3s-single-node: https://gist.github.com/felipereyel/6439828899c9ddc46862ad41de5d1a6e
+
+
 ## cluster template with knative
 - TBP
