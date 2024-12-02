@@ -7,6 +7,8 @@
 
 ## [Challenges](challenges.md)
 
+## [Advent of Code](aoc.md)
+
 ## [Torrents](torrents.md)
 
 ## [Toolkit](toolkit.md)
