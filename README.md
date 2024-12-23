@@ -1,7 +1,7 @@
 # Hi there 👋
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipereyel/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipereyel)
 
-I'm Felipe Reyel, a passionate software developer and tech enthusiast with 5 years of professional experience building systems from scratch and leading small teams of developers. I currently work as a Lead Software Engineer at Abstra.
+I'm Felipe Reyel, a passionate software developer and tech enthusiast with professional experience building systems from scratch and leading small teams of developers. I currently work as a Lead Software Engineer at Abstra.
 
 My passion right now is systems architecture and infrastructure with a focus on backend development and DevOps. <!-- I have extensive hands on experience with tools/systems like Kubernetes, Docker, AWS and Terraform -->
 
@@ -17,9 +17,5 @@ My passion right now is systems architecture and infrastructure with a focus on 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-# Stats 📊
-
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=felipereyel&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipereyel&theme=neon&hide_border=false"  width="400px" />
 
 # [Index of my projects](./index.md)
