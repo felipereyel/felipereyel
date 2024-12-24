@@ -11,3 +11,7 @@ Some python projects I played with
 
 ## RabbitMQ producer and consumers
 - rabbitTest: https://github.com/felipereyel/rabbitTest
+
+
+## Template
+- PYTH stack (Python + Tailwind + Htmx): https://github.com/felipereyel/pyth-stack
