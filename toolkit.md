@@ -12,6 +12,9 @@ Collection of Templates / Plugins / Presets
 ## Bun
 - Honotes (Bun + Hono + Htmx + Tsx): https://github.com/felipereyel/honotes
 
+## Python
+- PYTH stack (Python + Tailwind + Htmx): https://github.com/felipereyel/pyth-stack
+
 ## Vue
 - Vue + Pocketbase: https://github.com/felipereyel/vue-pocketbase
 - Vite / Vue3 / router / TS / setup: https://github.com/felipereyel/vue-template
