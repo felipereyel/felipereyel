@@ -4,6 +4,7 @@ Collection of Templates / Plugins / Presets
 
 ## Go Fiber
 - GOTH stack (Go + Tailwind + Htmx): https://github.com/felipereyel/goth-stack
+- GOTH oidc (Go + Tailwind + Htmx): https://github.com/felipereyel/goth-oidc
 - go fiber: https://github.com/felipereyel/go-fiber-stack
 
 ## Node
