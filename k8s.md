@@ -6,6 +6,10 @@ Some k8s tools/templates I use
 Manually scale up and down k8s deployments with a UI
 - scaler: https://github.com/felipereyel/k8s-manual-scaler
 
+## Service fallback
+Manually scale up k8s deployments when service is not available
+- fallback: https://github.com/felipereyel/k8s-ingress-fallback
+
 
 ## K8s pods monitoring
 - khono: https://github.com/felipereyel/khono
