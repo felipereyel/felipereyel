@@ -21,11 +21,6 @@ Manually scale up and down k8s deployments with a UI
 - scaler: https://github.com/felipereyel/k8s-manual-scaler
 
 
-## K8s Homepage
-A homepage for k8s deployments with service links
-- homepage: https://github.com/felipereyel/k8s-homepage
-
-
 ## Service fallback
 Manually scale up k8s deployments when service is not available
 - fallback: https://github.com/felipereyel/k8s-ingress-fallback
