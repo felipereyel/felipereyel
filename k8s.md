@@ -25,5 +25,9 @@ Infrastructure of my cloud (terraform for Cloudflare and kubernetes for bare met
 - k3s-single-node: https://gist.github.com/felipereyel/6439828899c9ddc46862ad41de5d1a6e
 
 
+## cloudflare tunnel setup with deployment and configmaps
+- tunnel: https://gist.github.com/felipereyel/17147ea3e4fe772c6f023b68d118a899
+
+
 ## cluster template with knative
 - TBP
