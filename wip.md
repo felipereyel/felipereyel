@@ -6,6 +6,7 @@ These projects are WIP and dont have clear classification yet
 - [crypto](https://github.com/felipereyel/crypto): browser tool to encrypt and decrypt using AES
 - [vue-gh-pages](https://github.com/felipereyel/vue-gh-pages): template to publish vue apps as GH pages
 - [blog.reyel.dev](https://github.com/felipereyel/blog.reyel.dev): my personal blog
+- [tellodeck](https://github.com/felipereyel/tellodeck): Control your DJI Tello with your Steamdeck 
 
 Arduino stuff
 
