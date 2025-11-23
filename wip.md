@@ -7,3 +7,5 @@ These projects are WIP and dont have clear classification yet
 
 - [blog.reyel.dev](https://github.com/felipereyel/blog.reyel.dev): my personal blog
 - [tellodeck](https://github.com/felipereyel/tellodeck): Control your DJI Tello with your Steamdeck 
+
+- https://github.com/felipereyel/keychain-stl
