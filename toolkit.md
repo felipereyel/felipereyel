@@ -19,6 +19,7 @@ Collection of Templates / Plugins / Presets
 ## Vue
 - Vue + Pocketbase: https://github.com/felipereyel/vue-pocketbase
 - Vite / Vue3 / router / TS / setup: https://github.com/felipereyel/vue-template
+- template to publish vue apps as GH pages: [vue-gh-pages](https://github.com/felipereyel/vue-gh-pages): 
 
 
 ## Old / Deprecated

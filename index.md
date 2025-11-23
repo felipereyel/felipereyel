@@ -5,6 +5,8 @@
 
 ## [Games](games.md)
 
+## [Arduino](arduino.md)
+
 ## [Challenges](challenges.md)
 
 ## [Advent of Code](aoc.md)
